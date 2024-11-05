@@ -20,6 +20,8 @@ I’m **Maryamawit**, a code ninja by day and a literature enthusiast by night. 
 - 🐳 **Docker**  
 - 🔗 **RESTful APIs** (seriously, they’re my jam!)
 
+---
+
 When I’m not busy debugging my latest masterpiece, you can find me hunting for the local specialty beverages 🍹 or binge-watching medical series (no spoilers, please!). I love collaborating on open-source projects that make the world a little more awesome. Let’s build something great together! 🚀
 
 Feel free to     <a href="#repositories" class="inline-block bg-pink-500 text-white px-6 py-2 rounded-lg text-lg hover:bg-pink-600 transition-transform transform hover:scale-105">
