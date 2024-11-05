@@ -2,7 +2,7 @@
 I’m **Maryamawit**, a code ninja by day and a literature enthusiast by night. I wrangle JavaScript with Next.js, tame Python with Django, and sometimes I even speak fluent HTML—though I can’t guarantee it’ll be grammatically correct! 😄
 
   <div class="text-center mb-6">
-<a href="mailto:merrybee34@gmail.com" style="text-decoration: underline; text-decoration-thickness: 0.5px; color: #ec4899;">merrybee34@gmail.com</a>
+    <p class="text-lg">📧 <a href="mailto:merrybee34@gmail.com" class="text-pink-200 hover:underline">merrybee34@gmail.com</a></p>
   </div>
 
 ### My Toolkit:
