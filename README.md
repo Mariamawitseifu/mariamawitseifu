@@ -1,33 +1,26 @@
 ## Hey there! 👋
-I’m **Maryamawit**, a code ninja by day and a literature enthusiast by night. I wrangle JavaScript with Next.js, tame Python with Django, and sometimes I even speak fluent HTML—though I can’t guarantee it’ll be grammatically correct! 😄
+I'm **Maryamawit**, a backend code ninja by day and a literature enthusiast by night. 
+I build robust APIs with Node.js, tame Python with Django, architect scalable systems with NestJS/Express, 
+and sometimes I even write SQL queries that don't crash (well, most of the time)! 😄
 
-<div class="text-center mb-6">
- <p class="text-lg">📧 <a href="mailto:merrybee34@gmail.com" class="text-pink-200 hover:underline">merrybee34@gmail.com</a></p>
-</div>
+📧 **merrybee34@gmail.com**
 
 ---
 
 ### My Toolkit:
-- ⚙️ **JavaScript** (Next.js)  
-- 🐍 **Python** (Django)  
-- 🟢 **Node.js**
+- 🟢 **Node.js** (NestJS & Express)
 - 🐘 **Laravel**
-- 🐍 **Odoo**  
-- 🎨 **Tailwind CSS**  
-- 💾 **Databases**:  
-  - MySQL  
-  - SQLite  
-  - Postgres  
-  - MongoDB  
-- 🐳 **Docker**  
-- 🔗 **RESTful APIs** (seriously, they’re my jam!)
+- 💾 **Databases**: MySQL, PostgreSQL, MongoDB
+- 🐳 **Docker**
+
+*Also familiar with: Python, Django, Odoo*
 
 ---
  I love collaborating on open-source projects that make the world a little more awesome. Let’s build something great together! 🚀
 
-Feel free to     <a href="#repositories" class="inline-block bg-pink-500 text-white px-6 py-2 rounded-lg text-lg hover:bg-pink-600 transition-transform transform hover:scale-105">
-      Explore my repositories
-    </a>—just be warned: my old code might make you cringe a little! Maybe I should make them private... okay, I’ll do that now! Bye! 🤓
+Feel free to [explore my repositories](https://github.com/Mariamawitseifu?tab=repositories) — just be warned: my old code might make you cringe a little! 
+
+*Maybe I should make them private... okay, I'll do that now!* Bye! 🤓
 
 <!--
 **Mariamawitseifu/mariamawitseifu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
